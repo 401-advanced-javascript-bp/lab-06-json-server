@@ -1,0 +1,59 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "dairy",
+      "display_name": "dairy",
+      "description": "milk products"
+    },
+    {
+      "id": "2",
+      "name": "produce",
+      "display_name": "produce",
+      "description": "fruits and veggies"
+    },
+    {
+      "id": "3",
+      "name": "home and garden",
+      "display_name": "home and garden",
+      "description": "home improvement"
+    },
+    {
+      "id": "4",
+      "name": "funions",
+      "category": "produce",
+      "display_name": "funions",
+      "description": "party veggies"
+    }
+  ],
+  "products": [
+    {
+      "id": "f1",
+      "category": "dairy",
+      "name": "mac n cheese",
+      "display_name": "Kraft mac n cheese",
+      "description": "best mac n cheese"
+    },
+    {
+      "id": "f2",
+      "category": "home and garden",
+      "name": "lawn mower",
+      "display_name": "John Deere riding mower",
+      "description": "expensive yard toy"
+    },
+    {
+      "name": "cheesy poofs",
+      "category": "dairy",
+      "display_name": "Kraft mac n cheese",
+      "description": "best mac n cheese",
+      "id": "f3"
+    },
+    {
+      "id": "f4",
+      "name": "onions",
+      "category": "produce",
+      "display_name": "onions",
+      "description": "layers upon layers"
+    }
+  ]
+}
